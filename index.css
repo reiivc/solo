@@ -147,7 +147,7 @@ text-align: center;
 
         .progressBarFill {
             position: absolute;
-            background-color: #683584;
+            background-color: #ffaa96;
             height: 100%;
             z-index: -1;
             left: 0px;
